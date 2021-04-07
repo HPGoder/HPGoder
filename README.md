@@ -1,7 +1,7 @@
 ### Hi there, I'm Henri-Pierre Goder 
 
 ## I'm a 25 years old French Engineering living in Paris
-- I'm currently looking for a Job as Junior FullStack Developer
+- I'm currently working as a Junior FullStack Developer
 - I started to develope applications more than 1 year ago
 - 2021 Goals: 
     - Starting my new carrer as a developer with a great team !
