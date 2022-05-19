@@ -2,7 +2,7 @@
 
 ## I'm a 25 years old French Engineering living in Paris
 - I'm currently working as a Junior FullStack Developer
-- I started to develope applications more than 1 year ago
+- I started to develop applications more than 1 year ago
 - 2021 Goals: 
     - Starting my new carrer as a developer with a great team !
     - Improve my backend and frontend skills.
